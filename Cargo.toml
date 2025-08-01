@@ -23,7 +23,7 @@ documentation = "https://mlalic.github.io/hpack-rs/hpack/index.html"
 interop_tests = ["rustc-serialize"]
 
 [dependencies]
-log = "^0.3"
+log = "^0.4.0"
 
 [dependencies.rustc-serialize]
 version = "^0.3"
